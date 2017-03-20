@@ -1,6 +1,5 @@
-#Rocket Cards
-
-Test task to RocketBank created in React Native.
+# Rocket Cards
+Test task for RocketBank created in React Native.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
